@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-notes-app-dexie/static/css/main.926db4fc.css",
+    "main.js": "/react-notes-app-dexie/static/js/main.27d7f09a.js",
+    "index.html": "/react-notes-app-dexie/index.html",
+    "main.926db4fc.css.map": "/react-notes-app-dexie/static/css/main.926db4fc.css.map",
+    "main.27d7f09a.js.map": "/react-notes-app-dexie/static/js/main.27d7f09a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926db4fc.css",
+    "static/js/main.27d7f09a.js"
+  ]
+}
